@@ -109,8 +109,8 @@ POST	/api/v1/auth/resend-verification	Resend verification email
 POST	/api/v1/auth/refresh-token	Refresh access token
 POST	/api/v1/auth/forgot-password	Request password reset
 POST	/api/v1/auth/reset-password/:resetToken	Reset password
-📌 License
 
+📌 License
 This project is open-sourced under the MIT License.
 
 ✅ 4. Commit Message (use this on first push)
