@@ -39,6 +39,9 @@ bcrypt
 
 Cookie-parser
 
+:) This project has been fully tested using Postman.
+All authentication routes — including registration, login, JWT verification, refresh token flow, and protected routes — return the expected HTTP responses.
+
 📁 Project Structure
 src/
 │
